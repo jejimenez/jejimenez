@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on quality assurance for Insurance services platforms. Experienced in the end-to-end software development life cycle, from documentation, requirements gathering, development, testing, deployment, and support/maintenance.<br>I'm looking forward to work on web3 projects. I'm skillful at walking through the code to find issues. Fast learner. And "tech-motivated".
+I'm currently working on quality assurance for Insurance services platforms. Experienced in the end-to-end software development life cycle, from documentation, requirements gathering, development, testing, and support/maintenance.<br>I'm looking forward to work on web3 projects. I'm skillful at walking through the code to find issues. Fast learner. And "tech-motivated".
 
 
 ## 🌐 Socials:
